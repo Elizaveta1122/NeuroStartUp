@@ -1,5 +1,7 @@
 #NeuroStartUp
-![alt text](C:\Users\vc_moskvicheva\Desktop\Homework\NeuroStartUp)
+
+![alt text](logo.png)
+
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
 Наши преимущества:
